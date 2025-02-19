@@ -109,5 +109,18 @@ Expected Output: Page loads with content.
 **5. Conclusion**
 This multi-cloud architecture showcases interoperability by using AWS S3 for HTML and GCP Cloud Storage for assets, demonstrating a shared resource setup across two cloud providers.
 
+**SCREENSHOTS:**
 
+**IMAGE 1:**
+![Image](https://github.com/user-attachments/assets/bb627cbb-d330-481b-87b7-5e4bc5437bc4)
 
+**IMAGE 2:**
+![Image](https://github.com/user-attachments/assets/4cd01773-8228-4de0-9461-688d54cf0e76)
+
+**IMAGE 3:**
+![Image](https://github.com/user-attachments/assets/d1a31838-2a68-48a9-9c37-6445adca03f4)
+
+**DEMONSTRATION VEDIO:**
+                  Giving live resources is not possible for me because it may charge from cloud providers.So, I give my google drive link of my quick demonstartion vedio where i implemented the above senario.
+                  **G-drive link:**https://drive.google.com/file/d/1-TjaDX0G9mSAsprBgBP1Bu2uoDCMTczp/view?usp=drivesdk
+DEMO V
