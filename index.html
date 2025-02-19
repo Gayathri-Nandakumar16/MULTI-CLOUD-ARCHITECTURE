@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Multi-Cloud Website</title>
+    <link rel="stylesheet" href="https://storage.googleapis.com/my-gcp-assets/style.css">
+    <!-- We will upload style.css to GCP later -->
+</head>
+
+<body>
+    <h1>Welcome to My Multi-Cloud Website!</h1>
+    <p>This website is hosted on AWS S3, with assets stored in Google Cloud.</p>
+
+    <!-- Image hosted on GCP -->
+    <img src="https://storage.googleapis.com/my-gcp-assets/my-image.jpg" alt="Example Image" width="300">
+
+    <!-- Contact Form (Later we will connect this to AWS Lambda) -->
+    <h2>Contact Us</h2>
+    <form action="#" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <p>Stay tuned for updates as we connect AWS, GCP, and Cloudflare!</p>
+    <script src="https://storage.googleapis.com/my-gcp-assets/script.jss"></script>
+</body>
+
+</html>
